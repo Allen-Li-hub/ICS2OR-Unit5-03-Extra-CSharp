@@ -1,7 +1,7 @@
 // Created by: Allen Li
-// Created on: Oct 2022
+// Created on: Nov 2022
 //
-// This program displays, "Hello, World!"
+// This program is an age checker.
 
 using System;
 
@@ -23,7 +23,7 @@ class Program
         {
             Console.WriteLine("You can see G, PG and R rated movies!");
         }
-        else if (userAge >= 13, userAge < 18)
+        else if (userAge >= 13)
         {
             Console.WriteLine("You can see G and PG rated movies!");
         }
