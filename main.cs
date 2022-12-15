@@ -33,7 +33,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Error!");
+            Console.WriteLine("you can hardly watch any movies");
         }
 
         Console.WriteLine("\nDone.");
